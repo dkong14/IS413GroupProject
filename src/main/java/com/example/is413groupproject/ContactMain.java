@@ -1,3 +1,9 @@
+/*
+File Name: ContactMain.javaa
+Author: Dexter Kong and Yabi Gruga
+Purpose: The main file
+ */
+
 package com.example.is413groupproject;
 
 import javafx.application.Application;
