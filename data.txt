@@ -1,0 +1,24 @@
+Name: Name
+Phone Number: Number
+Address: an address
+Email: email@email.com
+Secondary Email: email2@email.com
+
+Name: Alan
+Phone Number: 111-111-1111
+Address: address
+Email: email@email.com
+Secondary Email: Email2@emai.com
+
+Name: Joe 
+Phone Number: 555-666-888
+Address: Joe's Address
+Email: myEmail@email.com
+Secondary Email: myEmail2@email.com
+
+Name: myName
+Phone Number: myNumber
+Address: address
+Email: email
+Secondary Email: email2
+
